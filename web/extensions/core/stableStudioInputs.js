@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-empty-function */
 /* eslint-disable @typescript-eslint/no-this-alias */
-import { app } from "../scripts/app.js";
+import { app } from "../../scripts/app.js";
 
 function getWidgetType(config) {
   // Special handling for COMBO so we restrict links based on the entries
